@@ -12,3 +12,6 @@ Copia de M5 - 3: ejercicios con Bucles. Basicamente con FOR
 M5 - 06 Introduccion al Machine Learnig: Contenido en IA, así en explicación de cómo funciona el Machine Learnig y el alcance del mismo. También se explica sin entrar en detalles Deep Learning.
 Folium : Vista general del alcance de este sofware
 Prophet: Se hace predicción usando usando Prophet (Facebook). 
+
+M6-02 : clases de funciones en Phyton. Como se crean y como funcionan.
+M06-01 : Repaso de funciones.
