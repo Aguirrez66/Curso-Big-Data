@@ -13,5 +13,8 @@ M5 - 06 Introduccion al Machine Learnig: Contenido en IA, así en explicación d
 Folium : Vista general del alcance de este sofware
 Prophet: Se hace predicción usando usando Prophet (Facebook). 
 
-M6-02 : clases de funciones en Phyton. Como se crean y como funcionan.
-M06-01 : Repaso de funciones.
+<<<<<<< HEAD
+Copia de M6-01:Repaso de funciones, nombre, parámetros, argumentos
+Copia de M6-02: introducción a clases de funciones
+Copia M6-01 Ejercicios de funciones
+Copia de M6-04 Programacione funcional. Imperativa, funcional y funcional anónima
