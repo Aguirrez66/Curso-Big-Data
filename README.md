@@ -1,5 +1,3 @@
-
-
 # Curso-Big-Data: archivos procedentes del curso BigData realizado en junio-julio año 2023.
 DIA1:
 Copia M5-01-Python Notebook: Repaso básico de tipo de variables y tipos de formas de almacenamientos de datos, ya sean listas, tubles, sets, dicionarios.
