@@ -6,13 +6,18 @@ Copia M5-03 P.N. : Repaso de Bucles.
 DIA2:
 Copia de SpaceX : A partir de los datos obtenidos de la API DE SpaceX y utilizando la función GET obtenemos Dataframe que nos interesa
 Copia de M5 - 10 : ejercicios con librería Pandas
-Copia de M5 - 3: ejercicios con Bucles. Basicamente con FOR
-M5 - 06 Introduccion al Machine Learnig: Contenido en IA, así en explicación de cómo funciona el Machine Learnig y el alcance del mismo. También se explica sin entrar en detalles Deep Learning.
-Folium : Vista general del alcance de este sofware
-Prophet: Se hace predicción usando usando Prophet (Facebook). 
-
-<<<<<<< HEAD
-Copia de M6-01:Repaso de funciones, nombre, parámetros, argumentos
-Copia de M6-02: introducción a clases de funciones
-Copia M6-01 Ejercicios de funciones
-Copia de M6-04 Programacione funcional. Imperativa, funcional y funcional anónima
+DIA3:
+M5-06 ejercicio de introducción al machine learnig
+M5-09 ejercicio con Folium
+Prophet se predice la evolución del bitcoin
+DIA 4:
+M5- Spacex2 5 y 6 
+DIA 5 :
+EDA con data visualization Spacex2
+DIA 6:
+M6 - 01 funciones y M6- 02 clases
+DIA7:
+M6 - 04 programación funconal
+DIA8: 
+M6 -07  transfor.y acciones sobre RDD
+M6 - 05 Y 06  SPARK. Librería Java aplicable a Python
